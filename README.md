@@ -4,18 +4,17 @@ This repository contains the materials for a data visualization coursework proje
 
 ## Repository Structure
 
+    raw files/
+      Original datasets downloaded from the source
 
-├── raw files/
-│   └── Original datasets downloaded from the source
-│
-├── code and flow/
-│   ├── KNIME workflow for data cleaning and aggregation
-│   └── Python script for generating the correlation heatmap
-│
-├── final file/
-│   └── Final processed dataset used for all visualizations
-│
-└── README.md
+    code and flow/
+      KNIME workflow for data cleaning and aggregation
+      Python script for generating the correlation heatmap
+
+    final file/
+      Final processed dataset used for all visualizations
+
+    README.md
 
 ## Notes
 
