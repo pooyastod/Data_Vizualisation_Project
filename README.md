@@ -1,8 +1,9 @@
-Data Visualization Project
+# Data Visualization Project
 
 This repository contains the materials for a data visualization coursework project.
 
-Repository Structure
+## Repository Structure
+
 
 ├── raw files/
 │   └── Original datasets downloaded from the source
@@ -16,8 +17,9 @@ Repository Structure
 │
 └── README.md
 
-Notes
-	•	All data preprocessing is performed in KNIME
-	•	Visualizations are created using Tableau, Looker Studio, and Python (matplotlib)
-	•	Rows with missing values were removed
-	•	No normalization was applied
+## Notes
+
+- All data preprocessing is performed in KNIME
+- Visualizations are created using Tableau, Looker Studio, and Python (matplotlib)
+- Rows with missing values were removed
+- No normalization was applied
